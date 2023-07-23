@@ -5,6 +5,6 @@ int a, b;
 cout<<"Enter a and b : "<<endl;
 cin>>a;
 cin>>b;
-cout<<(a+b)<<endl;
+cout<<"Sum is : "<<(a+b)<<endl;
 return 0;
 }
